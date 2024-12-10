@@ -60,21 +60,21 @@
     display: block;
     width: 20px;
     height: 20px;
-    background-image: url('../images/icons/arrow-right-orange.svg');
+    background-image: url(../images/icons/arrow-right-orange.svg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
 
     &:hover {
-      background-image: url('../images/hovers/arrow-right-hover.svg');
+      background-image: url(../images/hovers/arrow-right-hover.svg);
     }
 
     &:active {
-      background-image: url('../images/hovers/arrow-right-active.svg');
+      background-image: url(../images/hovers/arrow-right-active.svg);
     }
 
     &:disabled {
-      background-image: url('../images/hovers/arrow-right-disabled.svg');
+      background-image: url(../images/hovers/arrow-right-disabled.svg);
     }
   }
 }
